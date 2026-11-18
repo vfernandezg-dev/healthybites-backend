@@ -1,6 +1,6 @@
 # ADR 0011 · Arranque rápido en funciones y base de datos que se suspende
 
-- **Estado:** aceptada
+- **Estado:** aceptada; la instancia caliente la sustituye el [ADR 0012](0012-sin-instancia-caliente.md)
 - **Fecha:** 2026-11-13
 
 ## Contexto
