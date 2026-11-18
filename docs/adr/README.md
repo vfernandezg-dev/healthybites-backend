@@ -15,4 +15,5 @@ descartadas. Una decisión aceptada no se edita; si cambia, se escribe un ADR nu
 | [0008](0008-almacenamiento-de-objetos.md)    | Ficheros en un almacenamiento de objetos S3-compatible       | Aceptada                                |
 | [0009](0009-rest-frente-a-graphql.md)        | REST estandarizado en lugar de GraphQL                       | Aceptada                                |
 | [0010](0010-varias-instancias.md)            | Preparada para varias instancias                             | Aceptada                                |
-| [0011](0011-arranque-rapido-en-funciones.md) | Arranque rápido en funciones y base de datos que se suspende | Aceptada                                |
+| [0011](0011-arranque-rapido-en-funciones.md) | Arranque rápido en funciones y base de datos que se suspende | Aceptada (en parte sustituida por 0012) |
+| [0012](0012-sin-instancia-caliente.md)       | Sin instancia caliente: arranque en frío tras 5 min sin uso  | Aceptada                                |
