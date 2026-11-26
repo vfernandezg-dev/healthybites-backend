@@ -9,7 +9,7 @@
 # Las variables (DB_PASSWORD) se leen de .env (ver .env.example). Todo se publica solo en 127.0.0.1.
 services:
   db:
-    image: postgres:18-alpine
+    image: postgres:19-alpine
     container_name: healthybites-db
     restart: unless-stopped
     environment:
