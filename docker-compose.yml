@@ -31,7 +31,7 @@ services:
 
   # Captura todos los correos del entorno local: interfaz web en http://localhost:8025.
   mail:
-    image: axllent/mailpit:v1.33
+    image: axllent/mailpit:v1.34
     container_name: healthybites-mail
     restart: unless-stopped
     ports:
